@@ -1,0 +1,3 @@
+etendus;Tulleminek;118;03;22;19;00;Vanemuine;suur saal;21.00
+spordiüritus;Eesti meistrivõistlused ujumises;118;04;01;10;00;Kalevi ujula;põhirajad;2.5
+film;Mad Max;118;03;20;15;30;Cinamon;Saku2;7.50

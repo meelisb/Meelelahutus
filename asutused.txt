@@ -1,0 +1,3 @@
+Cinamon;Turu 2, Tartu;25
+Vanemuine;Vanemuise 6, Tartu;50
+Kalevi ujula;Aia 8, Tallinn;10
